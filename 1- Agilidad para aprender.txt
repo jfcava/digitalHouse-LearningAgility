@@ -2,11 +2,14 @@
 
 La AGILIDAD es la capacidad que nos permite adaptarnos y cambiar segun las necesidades y requisitos del entorno.
 
--- BUKA y BANI
+Tras la guerra fria, en 1980 surge el entorno VUCA (VOLATIL, INCIERTO, COMPLEJO, AMBIGUO)
+Y tras la pandemia en 2020, el entorno BANI (FRAGIL, ANSIEDAD, NO LINEAL E INCOMPRENSIBLE)
+
+-- VUKA y BANI
 
 Son representaciones simplificadas de la realidad, que estan diseñadas para comprender mejor nuestro entorno. Se definen dos realidades, BUKA y BANI.
 
-BUKA: Describe un mundo complejo y ambiguo. Este entorno BUKA, se caracteriza por ser volatil. Es incierto. Es complejo. Es ambiguo, las situaciones no tienen una unica explicacion. A veces lo contradictorio puede coexistir.
+VUKA: Describe un mundo complejo y ambiguo. Este entorno VUKA, se caracteriza por ser volatil. Es incierto. Es complejo. Es ambiguo, las situaciones no tienen una unica explicacion. A veces lo contradictorio puede coexistir.
 
 BANI: Es un concepto que busca ayudarnos a comprender la realidad de un mundo en constante cambio. Define una realidad caracterizada por la fragilidad, lo no lineal, ansiedad y lo incomprensible.
 Es quebradizo, los sistemas economicos son mas fragiles. Otro concepto es la ansiedad. Lo no-lineal, los cambios suelen ser dificiles de preveer. El entorno es incomprensible.
